@@ -1,0 +1,17 @@
+{
+  "name": "primeira-api-matheus-fraga-udemy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dniemeryers/primeira-api-matheus-fraga-udemy.git",
+  "author": "Diego Niemeyer <102764313+dniemeryers@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts":{
+    "dev":"nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
